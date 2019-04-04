@@ -1,0 +1,15 @@
+.*
+!/.gitignore
+**target/
+**out/
+**META-INF/
+**tmp/
+
+*.xml~
+*.un~
+*.iml
+*.bak
+*.classpath
+*.settings
+*.project 
+*/logs
